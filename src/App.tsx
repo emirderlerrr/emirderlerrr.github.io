@@ -194,7 +194,7 @@ export default function App() {
 
             <div className="flex items-center gap-2 text-xs text-slate-400">
               <Sparkles className="h-3.5 w-3.5 text-emerald-400" aria-hidden="true" />
-              <span>48+ Client Launches · 4.9/5 Rating</span>
+              <span> ... Client Launches · 4.9/5 Rating</span>
             </div>
           </div>
         </SpotlightCard>
