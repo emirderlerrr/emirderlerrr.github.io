@@ -183,7 +183,7 @@ export default function App() {
           {/* Primary Glowing CTA Row */}
           <div className="mt-6 flex flex-wrap items-center justify-between gap-4 border-t border-white/[0.08] pt-5">
             <a
-              href={https://www.fiverr.com/emirderlerrr}
+              href="https://fiverr.com/emirderlerrr"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-indigo-500 to-indigo-600 px-5 py-3 text-sm font-semibold text-white whitespace-nowrap shadow-[0_0_28px_-4px_rgba(99,102,241,0.65)] transition-all duration-150 hover:from-indigo-400 hover:to-indigo-500 hover:shadow-[0_0_34px_-2px_rgba(99,102,241,0.85)] hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-400"
