@@ -413,7 +413,7 @@ export default function App() {
             </div>
 
             <a
-              href={https://www.fiverr.com/emirderlerrr}
+              href="https://fiverr.com/emirderlerrr"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex w-full items-center justify-center gap-1.5 rounded-xl border border-indigo-500/35 bg-indigo-500/15 px-3.5 py-2.5 text-xs font-semibold text-indigo-200 transition-colors duration-150 hover:bg-indigo-500 hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-indigo-400"
